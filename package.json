@@ -14,7 +14,7 @@
     "@babel/core": "^7.8.3",
     "@storybook/addon-centered": "^5.3.9",
     "@storybook/addon-docs": "^5.3.9",
-    "@storybook/react": "^5.3.9",
+    "@storybook/react": "^10.0.7",
     "@types/react": "^16.9.19",
     "@types/react-dom": "^16.9.5",
     "babel-loader": "^8.0.6",
